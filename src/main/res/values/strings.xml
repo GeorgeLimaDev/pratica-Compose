@@ -1,0 +1,23 @@
+<resources>
+    <!-- Exercicio 1: Compose -->
+    <string name="app_name">Pratica-compose</string>
+    <string name="compose_titulo">Jetpack Compose tutorial</string>
+    <string name="compose_descricaoBreve">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
+    <string name="compose_descricaoLonga">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest. Compose is built around Composable functions. These functions let you define your app\'s UI programmatically because they let you describe how it should look and provide data dependencies, rather than focus on the process of the UI\'s construction, such as initializing an element and then attaching it to a parent. To create a Composable function, you add the @Composable annotation to the function name.</string>
+
+    <!-- Exercicio 2: Task manager -->
+    <string name="app_name2">Task Completed</string>
+    <string name="TodasTarefasCompletadas">All tasks completed</string>
+    <string name="bomTrabalho">Nice work!</string>
+
+    <!-- Exercicio 3: Quadrantes -->
+    <string name="app_name3">Compose Quadrant</string>
+    <string name="primeiroTitulo">Text composable</string>
+    <string name="primeiraDescricao">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="segundoTitulo">Image composable</string>
+    <string name="segundaDescricao">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="terceiroTitulo">Row composable</string>
+    <string name="terceiraDescricao">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="quartoTitulo">Column composable</string>
+    <string name="quartaDescricao">A layout composable that places its children in a vertical sequence.</string>
+</resources>
